@@ -2,5 +2,11 @@
 name = "zephyr"
 version = "0.1.0"
 edition = "2024"
+authors = ["zephyr contributors"]
+description = "A fast, modular, and ergonomic async web framework for Rust, designed for maximum performance with minimal ceremony."
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/zephyr-rs/zephyr"
+keywords = []
+categories = []
 
 [dependencies]
